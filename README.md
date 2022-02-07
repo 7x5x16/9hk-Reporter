@@ -35,3 +35,5 @@ cd CREEPorter sudo python3 IGBot.py
 Open CMD python IGBot.py
 
 Have Fun -9hk
+
+<strong>Thanks to Lynch for helping me</strong>

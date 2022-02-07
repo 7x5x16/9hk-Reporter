@@ -1,4 +1,4 @@
-![](images\1.PNG)
-![](images\2.PNG)
-![](images\3.PNG)
-![](images\4.PNG)
+<img src="images/1.PNG" >
+<img src="images/2.PNG" >
+<img src="images/3.PNG" >
+<img src="images/4.PNG" >

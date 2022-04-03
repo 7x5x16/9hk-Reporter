@@ -37,11 +37,11 @@ reportData['hate'] = 6
 reportData['bullying'] = 7
 reportData['underage'] = 11
 
-Username = ''
-Password = ''
+Username = 7x5x16
+Password = stiviktu01
 
-TargetUsername = ''
-TargetID= ''
+TargetUsername = ''sir.kvpx
+TargetID= ''123
 
 storiesArray = []
 postsArray = []
@@ -255,8 +255,8 @@ def getReportType():
     global rprtSe
     global reportWay, targetUsn, reports, reporterr
     clearS()
-    reports = 0
-    reporterr = 0
+    reports = 199
+    reporterr = 199
     askStuff = f'''[{colorama.Fore.LIGHTGREEN_EX}1{colorama.Fore.RESET}] Profile
 [{colorama.Fore.LIGHTGREEN_EX}2{colorama.Fore.RESET}] Stories
 [{colorama.Fore.LIGHTGREEN_EX}3{colorama.Fore.RESET}] Posts
